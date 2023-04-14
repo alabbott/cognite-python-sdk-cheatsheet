@@ -1,2 +1,5 @@
 .env
 .venv
+istc-sandbox.env.txt
+rockwell-demo.env.txt
+secrets.txt
