@@ -1,0 +1,11 @@
+COGNITE_PROJECT=your-project
+MQTT_BROKER=your-mqtt-broker
+MQTT_PORT=1883
+MQTT_USER=your-username
+MQTT_PASS=your-password
+TOKEN_URL=your-token-url
+GM_CLIENT_ID=your-client-id
+GM_CLIENT_SECRET=your-client-secret
+SCOPES=your-scopes
+CLIENT_NAME=your-client-name
+BASE_URL=your-base-url
