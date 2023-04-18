@@ -1,3 +1,4 @@
 cognite-sdk[all]
 paho-mqtt
 python-dotenv
+ipywidgets
