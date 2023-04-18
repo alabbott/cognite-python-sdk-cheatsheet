@@ -1,0 +1,1 @@
+small ball bearing by filou3D on Thingiverse: https://www.thingiverse.com/thing:5919389
